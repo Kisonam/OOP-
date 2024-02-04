@@ -1,0 +1,14 @@
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/bin/Debug/net7.0/OOPTraining
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/bin/Debug/net7.0/OOPTraining.deps.json
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/bin/Debug/net7.0/OOPTraining.runtimeconfig.json
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/bin/Debug/net7.0/OOPTraining.dll
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/bin/Debug/net7.0/OOPTraining.pdb
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.AssemblyInfoInputs.cache
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.AssemblyInfo.cs
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.csproj.CoreCompileInputs.cache
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.dll
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/refint/OOPTraining.dll
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.pdb
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/OOPTraining.genruntimeconfig.cache
+/Users/artemradovskyi/Skripts/C#/OOP-/OOPTraining/OOPTraining/obj/Debug/net7.0/ref/OOPTraining.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ABBC34D7-1129-41F3-A69C-024AE6A923AF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOPTraining PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPTraining/Program.cs">
+    <Files>
+      <File FileName="OOPTraining/Program.cs" Line="14" Column="50" />
+      <File FileName="OOPTraining/Encapsulation/Person.cs" Line="57" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPTraining" expanded="True">
+            <Node name="OOPTraining">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
